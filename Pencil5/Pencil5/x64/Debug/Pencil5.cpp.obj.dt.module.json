@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Pencil5\\x64\\Debug\\Pencil5.obj",
+            "outputs": [
+                "Pencil5\\x64\\Debug\\Pencil5.cpp.obj.dt.module.json",
+                "Pencil5\\x64\\Debug\\Pencil5.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

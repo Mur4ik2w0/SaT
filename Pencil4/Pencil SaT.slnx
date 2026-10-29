@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pencil SaT 5/Pencil SaT 5.vcxproj" Id="01775159-7b20-41f5-b3f2-fbbd9428336b" />
+  <Project Path="Pencil SaT.vcxproj" Id="323cb58f-27c0-4f32-9a2c-c804dab2031d" />
+</Solution>

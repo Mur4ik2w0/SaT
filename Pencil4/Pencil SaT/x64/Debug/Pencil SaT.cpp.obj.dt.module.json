@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Pencil SaT\\x64\\Debug\\Pencil SaT.obj",
+            "outputs": [
+                "Pencil SaT\\x64\\Debug\\Pencil SaT.cpp.obj.dt.module.json",
+                "Pencil SaT\\x64\\Debug\\Pencil SaT.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
